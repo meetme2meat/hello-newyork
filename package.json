@@ -1,6 +1,6 @@
 {
   "name": "@meetme2meat/hello-newyork",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Just a return alert with hello newyork.",
   "main": "index.js",
   "scripts": {
