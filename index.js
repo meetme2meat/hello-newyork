@@ -1,1 +1,1 @@
-alert('hello new-york');
+alert('hello new-york people');
