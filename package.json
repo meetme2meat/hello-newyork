@@ -1,0 +1,22 @@
+{
+  "name": "@meetme2meat/hello-newyork",
+  "version": "1.0.0",
+  "description": "Just a return alert with hello newyork.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetme2meat/hello-newyork.git"
+  },
+  "keywords": [
+    "newyork"
+  ],
+  "author": "Viren Negi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meetme2meat/hello-newyork/issues"
+  },
+  "homepage": "https://github.com/meetme2meat/hello-newyork#readme"
+}
