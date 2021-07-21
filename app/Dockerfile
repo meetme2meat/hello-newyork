@@ -6,5 +6,9 @@ COPY package*.json ./
 
 RUN npm install
 
-COPY index.js .
-CMD [ "/bin/bash" ]
+COPY . .
+
+EXPOSE 8080
+
+CMD [ "node", "server.js" ]
+
